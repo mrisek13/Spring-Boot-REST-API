@@ -10,5 +10,4 @@ public class RestApplication {
 		SpringApplication.run(RestApplication.class, args);
 		System.out.println("hello world!");
 	}
-
 }
